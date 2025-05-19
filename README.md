@@ -27,7 +27,7 @@ The dataset consists of sports images categorized into different classes (e.g., 
 - `sports-image-classification-part1.ipynb`: Data loading and preprocessing  
 - `sports-image-classification-part2.ipynb`: Augmentation and dataset splitting  
 - `sports-image-classification-part3.ipynb`: Model architecture, training, experiments  
-- `Deep_report_team 6.pdf`: Full project report  
+- `Sports Image Classification.pdf`: Full project report  
 - `README.md`: Project overview and instructions
 
 ---
